@@ -19,14 +19,14 @@
 </p>
 
 ### I am FrontEnd developer
-Hi, I'm [Stella Ladegbaye](https://LadegbayeStella.me/), a frontend web developer and a software developer.
+Hi, I'm [Benjamin ladegbaye ademide](https://benjaminladegbayeademide.me/), a frontend web developer and a software developer.
 
 I'm a self taught developer, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
 
 
 <p align="left"> <img src="https://github.com/LadegbayeStella/LadegbayeStella/blob/main/google.gif" alt="DevStella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LadegbayeStella" alt="DevStella" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="benjaminladegbayeademide" alt="DevBen" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
