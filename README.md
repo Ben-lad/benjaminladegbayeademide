@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminladegbayeademide
 - 👀 I’m interested in Front-end developer
-- 🌱 I’m currently learning Web3.0, blockchain solidity
+- 🌱 I’m currently learning React and  React native
 - 💞️ I’m looking to collaborate on any website
 - 📫 How to reach me linkdin:https://www.linkedin.com/in/benjamin-ladegbaye-992590247/ 
 ![](https://img.shields.io/badge/Adroitsoftware-ogba-bootcamp)
@@ -21,7 +21,7 @@
 ### I am FrontEnd developer
 Hi, I'm [Benjamin ladegbaye ademide](https://benjaminladegbayeademide.me/), a frontend web developer and a software developer.
 
-I'm a self taught developer, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
+I'm a self taught developer and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
 
 
 <p align="left"> <img src="https://github.com/LadegbayeStella/LadegbayeStella/blob/main/google.gif" alt="DevStella" /> </p>
@@ -36,7 +36,7 @@ I'm a self taught developer, i am also an React enthusiast and i love how collab
  
 | Statistics |   Languages |
 | ---------- | -----------  |
- | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LadegbayeStella&show_icons=true&theme=radical" alt="DevStella" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadegbayeStella&show_icons=true&theme=radical&layout=compact" alt="DevStella" width="410"/>|
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LadegbayeStella&show_icons=true&theme=radical" alt="DevStella" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadegbayeStella&show_icons=true&theme=radical&layout=compact" alt="Benlad" width="410"/>|
 </p><br>
 
 ### Github activity 🚀
