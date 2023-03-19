@@ -27,5 +27,7 @@
 <code><img height="25" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt='colab'></code>
 
 
+### 📈 my github stats
+
 | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amirah Nasihah's github stats" /></a> | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
