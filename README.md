@@ -1,27 +1,27 @@
-Hi there! 👋
-I'm John, a front-end developer with over 5 years of experience in web development. I'm passionate about creating beautiful and user-friendly websites that provide a great user experience. Here's a little bit more about me:
+<h2 align="center">
+  Hi there, I'm Benlad!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h2>
 
-🔭 I’m currently working on building a portfolio website to showcase my work.
-🌱 I’m constantly learning new technologies and staying up-to-date with the latest trends in front-end development.
-💬 Ask me about HTML, CSS, JavaScript, React, and responsive design.
-📫 How to reach me: johndoe@example.com or on Twitter.
-😄 Pronouns: he/him.
-My Skills
-HTML
-CSS
-JavaScript
-React
-Bootstrap
-Sass
+<p align="center">I'm a committed front-end developer striving to create exceptional user experiences.</p>
 
-My Projects
-My Portfolio Website - My personal website built with React.
-Travelify - A responsive travel website built with HTML, CSS, and Bootstrap.
-Weather App - A weather app built with React and the OpenWeatherMap API.
-My Contributions
-React Bootstrap - Contributed to the React Bootstrap project by fixing bugs and adding new features.
-Bootstrap - Contributed to the Bootstrap project by improving the documentation and fixing issues.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&count_private=true&theme=radical" alt="John's GitHub Stats">
+  <a href="https://www.linkedin.com/in/benlad/"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Linkedin.png" alt="Benlad's LinkedIn" width="22px"/></a>
+  <a href="https://github.com/benlad"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_github-256.png" alt="Benlad's GitHub" width="22px"/></a>
 </p>
-Thanks for stopping by my profile! Don't hesitate to reach out if you have any questions or just want to chat.
+
+<br>
+
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+
+### 💻 Languages and Tools
+
+<code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt='sublime text'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
+<code><img height="25" src="https://img.icons8.com/fluency/2x/anaconda--v2.png" alt='anaconda'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code> 
+<code><img height="25" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt='colab'></code>
